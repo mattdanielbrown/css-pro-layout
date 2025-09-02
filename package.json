@@ -42,7 +42,7 @@
     "node-sass": "^5.0.0",
     "postcss": "^7.0.32",
     "postcss-cli": "^7.1.1",
-    "prettier": "^2.0.5",
+    "prettier": "^2.8.8",
     "rimraf": "^3.0.2"
   },
   "keywords": [
